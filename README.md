@@ -34,7 +34,7 @@ Once the contract is deployed, you can interact with it by calling the sayHello 
 ## Authors
 
 Metacrafter Chris  
-@metacraftersio](https://twitter.com/metacraftersio)
+[@metacraftersio](https://twitter.com/metacraftersio)
 
 
 ## License
